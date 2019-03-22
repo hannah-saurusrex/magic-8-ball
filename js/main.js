@@ -1,4 +1,4 @@
-$$(document).ready(function(){
+$(document).ready(function(){
  
     var magic8Ball = {};
     
@@ -36,5 +36,3 @@ $$(document).ready(function(){
 // STOP
 
 // RUN FUNCTION ask question WITH INPUT "Will I ever learn JavaScript?"
-
-});
